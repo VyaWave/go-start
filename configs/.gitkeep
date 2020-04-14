@@ -1,0 +1,3 @@
+配置文件模板或者默认配置.
+
+在这里放置你的 confd 或者 consul-template 模板文件

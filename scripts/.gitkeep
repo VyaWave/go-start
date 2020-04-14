@@ -1,0 +1,3 @@
+执行各种构建, 安装, 分析等其他操作的脚本.
+
+这些脚本要保持根级别的 Makefile 小而简单 (比如: https://github.com/hashicorp/terraform/blob/master/Makefile).

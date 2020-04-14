@@ -1,0 +1,4 @@
+程序和库的私有代码. 这里的代码都是你不希望被别的应用和库所引用的.
+
+把你真正的应用代码放在 /internal/app 目录 (比如: /internal/app/myapp) 把你的应用间共享的代码放在 /internal/pkg 目录 (比如: internal/pkg/myprivlib)
+
